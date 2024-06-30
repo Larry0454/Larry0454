@@ -1,9 +1,9 @@
-## Hi there, Welcome to my Github profile! 👋
+## Hi there, Welcome to my profile! 👋
 
 - 🎓 **Education**: I'm currently pursuing my Bachelor's degree in SCSE@BUAA.
 - 📚 **Skills**: I have experiences in:
   - Languages: Python, Java, C/C++, JavaScript
-  - Tools: Git
+  - Tools: Git, Docker
   - Machine Learning: PyTorch, Scikit-Learn
   - Web Development: HTML, CSS, Vue3
 - 😄 **Fun Facts**: I love sports, music, movies, Go(Weiqi), etc.
