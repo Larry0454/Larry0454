@@ -1,4 +1,13 @@
-## Hi there, I'm WangLe! 👋
+## Hi there, Welcome to my Github profile! 👋
+
+- 🎓 **Education**: I'm currently pursuing my Bachelor's degree in SCSE@BUAA.
+- 📚 **Skills**: I have experiences in:
+  - Languages: Python, Java, C/C++, JavaScript
+  - Tools: Git
+  - Machine Learning: PyTorch, Scikit-Learn
+  - Web Development: HTML, CSS, Vue3
+- 😄 **Fun Facts**: I love sports, music, movies, Go(Weiqi), etc.
+- 📧 **Contact Me**: [lewang0454@gmail.com](mailto:lewang0454@gmail.com)
 
 <!--
 **Larry0454/Larry0454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
