@@ -1,11 +1,11 @@
 ## Hi there, Welcome to my profile! 👋
 
 - 🎓 **Education**: I'm currently pursuing my Bachelor's degree in SCSE@BUAA.
-- 📚 **Skills**: I have experiences in:
+- 📚 **Skills**: I have experience in:
   - Languages: Python, Java, C/C++, JavaScript
   - Tools: Git, Docker
   - Machine Learning: PyTorch, Scikit-Learn
-  - Web Development: HTML, CSS, Vue3
+  - Web Development: HTML, CSS, Vue.js
 - 😄 **Fun Facts**: I love sports, music, movies, Go(Weiqi), etc.
 - 📧 **Contact Me**: [lewang0454@gmail.com](mailto:lewang0454@gmail.com)
 
