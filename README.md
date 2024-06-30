@@ -1,5 +1,4 @@
 ## Hi there, I'm WangLe! 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Larry0454)
 
 <!--
 **Larry0454/Larry0454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
