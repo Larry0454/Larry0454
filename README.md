@@ -1,7 +1,7 @@
 ## Hi there, Welcome to my profile! 👋
 
 - 🎓 **Education**: I'm currently pursuing my Bachelor's degree in SCSE@BUAA.
-- 💼 **Internship**: Algorithm Intern@Megvii Research Institute, Embodied Intelligence Group.
+- 💼 **Internship**: Algorithm Intern in Embodied Intelligence Group@Megvii Research Institute.
 - 📚 **Skills**: I have experience in:
   - Languages: Python, Java, C/C++, JavaScript
   - Tools: Git, Docker
