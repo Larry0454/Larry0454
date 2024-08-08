@@ -1,7 +1,7 @@
 ## Hi there, Welcome to my profile! 👋
 
 - 🎓 **Education**: I'm currently pursuing my Bachelor's degree in SCSE@BUAA.
-- 💼 **Internship**: Algorithm Intern@Megvii Research.
+- 🔍 **Internship**: Algorithm Intern@Megvii Research.
 - 📚 **Interests**:
     - Computer Vision
     - Embodied Intelligence
